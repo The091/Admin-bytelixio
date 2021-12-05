@@ -1,7 +1,6 @@
-# zAdmin
+# Telixio admin
 Admin menu
-• OneSync Infinity friendly !
 • Easy to use
 • Free <3
 
-Support Discord: https://discord.gg/6ATKeR2jSM
+Support Discord: https://discord.gg/JdYfB5qxYV
